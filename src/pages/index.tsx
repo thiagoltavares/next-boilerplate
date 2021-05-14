@@ -4,7 +4,7 @@ import styles from '../../styles/Home.module.css'
 type HomeProps = {
   title: string
 }
-const bla = 'test'
+
 export default function Home({ title = 'React' }: HomeProps) {
   return (
     <div className={styles.container}>
