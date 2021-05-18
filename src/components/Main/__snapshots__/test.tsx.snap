@@ -55,7 +55,7 @@ exports[`<Main /> Should render the heading 1`] = `
   <h1
     class="c2"
   >
-    React JS
+    React Avançado
   </h1>
   <h2
     class="c3"
