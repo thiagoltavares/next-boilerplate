@@ -1,9 +1,6 @@
 import * as S from './styles'
 
-const Main = ({
-  title = 'React Avançado',
-  description = 'Typescript, ReactJS, NextJS e Styled Components'
-}) => {
+const Main = ({ title = 'Welcome on board', description = 'Let it be' }) => {
   return (
     <S.Wrapper>
       <S.Title>{title}</S.Title>
